@@ -3,7 +3,8 @@ Switchboard MP3 Player
 
 ![Alt text](Images/Switchboard%20Front%20Console.png)
 
-This project documents the modification I made to a vintage phone switchboard. Any of the audio plugs can be inserted into any of the ports in the top console. The light will turn on and one of 74 MP3s will play out the corded phone.
+This project documents the modifications made to a vintage phone switchboard. This is an interactive exhibit at the WOW children's museum in Lafayette. Any of the audio plugs can be inserted into any of the ports in the top console. The light will turn on and one of 74 MP3s will play out the corded phone.
+
 ![Alt text](Images/Switchboard%20with%20Weights.png)
 
 ![Alt text](Images/Switchboard%20Backside%20Highres.jpg)
@@ -11,6 +12,8 @@ This project documents the modification I made to a vintage phone switchboard. A
 It was awesome to work on.
 
 ![Alt text](Images/Switchboard%20Solder.png)
+
+I appreciate the switchboard contained its own solder. From 1956!
 
 ![Alt text](Images/Switchboard%20Front%20Console%20Partial.png)
 
@@ -38,7 +41,9 @@ Above, shows all the original glass lamp covers
 
 ![Alt text](Images/Switchboard%20Front%20Console%20Lower%20Plugs%20Inner.png)
 
-[Move of LEDs](Images/Switchboard%20LEDs.mp4)
+![Alt text](Images/Switchboard%20LEDs.gif)
+
+[Movie of LEDs](Images/Switchboard%20LEDs.mp4)
 
 Repository Contents
 -------------------
